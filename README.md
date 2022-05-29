@@ -12,3 +12,7 @@ Equipe RAHAN:
 
 > ***UPDATE*** : TOP 4 🥳
 Merci aux ministères des armées ainsi qu'à l'équipe organisatrice pour ce Hackaton !
+
+## ENGLISH
+
+__Subject:__ Group together the different available delivery points by electricity consumption profile, and by analysis identify the activities carried out in each of these places (data center, administrative place, catering, housing, etc).
